@@ -26,6 +26,12 @@ registration(id,name,phone,password)
 shows(show_id,theatre_id,movie_id,show_time,start_date,end_date)
 theatres(theatre_id,theatre_name,location,address)
 
+## Contributers:
+GUGGILAM LEELA NAGA SAI SRI SAKETH
+VEMURI SETHU SAI BHARGAV
+SYED ARSH
+SESHAGIRI BHARADWAJ SAI
+
 Website Link: http://ticketbookingmoviemate.infy.uk
 
 
