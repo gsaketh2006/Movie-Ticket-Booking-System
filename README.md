@@ -18,7 +18,7 @@ An online movie ticket booking system developed using PHP, MySQL, HTML5, and CSS
 - Database: MySQL
 - Styling: Bootstrap
 
-## 🗃️ Database Schema
+## Database Schema
 - add_movie(movie_id,name,description,genre,language,duration,release_date,rating,poster,banner)
 - booking(booking_id,id,movie_id,show_id,seats_selected,cost,status,booking_date,no_of_seats_selected)
 - payments(payment_id,booking_id,total,mode_of_payment,payment_status)
