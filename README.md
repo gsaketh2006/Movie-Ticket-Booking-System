@@ -12,7 +12,7 @@ An online movie ticket booking system developed using PHP, MySQL, HTML5, and CSS
 - Booking Summary and Confirmation
 - Admin Panel to Add/Manage Movies, Theatres, and Showtimes
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Frontend: HTML5, CSS3, JavaScript
 - Backend: PHP
 - Database: MySQL
