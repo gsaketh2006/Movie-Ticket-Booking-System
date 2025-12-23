@@ -1,4 +1,4 @@
-# Movie Ticket Booking System
+# Movie Ticket Booking System (Moviemate)
 
 An online **Movie Ticket Booking Web Application** developed using **PHP, MySQL, HTML5, CSS3, JavaScript, and Bootstrap**.  
 The system allows users to browse movies, select showtimes, choose seats, and book tickets online.  
